@@ -218,3 +218,6 @@ pip-log.txt
 *.exe
 !premake4.exe
 *.a
+
+# CMake build
+cmake_build/
